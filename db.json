@@ -2,23 +2,23 @@
   "stock": [
     {
       "id": 1,
-      "ammount": 3
+      "amount": 3
     },
     {
       "id": 2,
-      "ammount": 4
+      "amount": 4
     },
     {
       "id": 3,
-      "ammount": 344
+      "amount": 344
     },
     {
       "id": 4,
-      "ammount": 43
+      "amount": 43
     },
     {
       "id": 5,
-      "ammount": 34
+      "amount": 34
     }
   ],
   "products": [
